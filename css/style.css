@@ -1767,3 +1767,6 @@ pre .xml .cdata {
   margin-right: 5px;
   display: inline-block;
 }
+.site-title a{
+  font-family: Microsoft Yahei;
+}
